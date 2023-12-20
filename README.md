@@ -13,3 +13,6 @@
 
 ## 💰 Financial App UI
 <img width=300, src = "https://github.com/qndls42/flutter_study/assets/14909063/afe6238a-7532-41db-81ce-4fc50034c042"/>
+
+## 📆 Planner App UI
+<img width=300, src="https://github.com/qndls42/flutter_study/assets/14909063/aba0985f-9e1f-4311-9a9d-0d580f51cb91"/>
