@@ -25,4 +25,4 @@
 <img width=300, src="https://github.com/qndls42/flutter_study/blob/develop/resources/MOVIEFLIX.gif?raw=true"/>
 
 ## 📚 TOONFLIX App
-<img width=300, src="https://github.com/qndls42/flutter_study/blob/develop/resources/MOVIEFLIX.gif?raw=true"/>
+<img width=300, src="https://github.com/qndls42/flutter_study/blob/develop/resources/TOONFLIX.gif?raw=true"/>
