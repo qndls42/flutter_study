@@ -15,12 +15,14 @@
 ## 💰 Financial App UI
 <img width=300, src = "https://github.com/qndls42/flutter_study/assets/14909063/afe6238a-7532-41db-81ce-4fc50034c042"/>
 
-
 ## 📆 Planner App UI
 <img width=300, src="https://github.com/qndls42/flutter_study/assets/14909063/aba0985f-9e1f-4311-9a9d-0d580f51cb91"/>
 
 ## ⏲ POMODORO App
 <img width=300, src="https://github.com/qndls42/flutter_study/assets/14909063/e3e6da12-dadb-47bf-9ba4-55f3992a15a0"/>
 
-## ⏲ MOVIEFLIX App
+## 📽 MOVIEFLIX App
+<img width=300, src="https://github.com/qndls42/flutter_study/blob/develop/resources/MOVIEFLIX.gif?raw=true"/>
+
+## 📚 TOONFLIX App
 <img width=300, src="https://github.com/qndls42/flutter_study/blob/develop/resources/MOVIEFLIX.gif?raw=true"/>
